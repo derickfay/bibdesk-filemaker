@@ -1,0 +1,11 @@
+CiteKey	URL
+<$publications>
+<$remoteURLs.@firstObject?><$citeKey.csvString/>	<$remoteURLs.URL.absoluteString.@firstObject/>
+</$remoteURLs.@firstObject?>
+<$remoteURLs.@secondObject?><$citeKey.csvString/>	<$remoteURLs.URL.absoluteString.@secondObject/>
+</$remoteURLs.@secondObject?>
+<$remoteURLs.@thirdObject?><$citeKey.csvString/>	<$remoteURLs.URL.absoluteString.@thirdObject/>
+</$remoteURLs.@thirdObject?>
+<$remoteURLs.@fourthObject?><$citeKey.csvString/>	<$remoteURLs.URL.absoluteString.@fourthObject/>
+</$remoteURLs.@fourthObject?>
+</$publications>

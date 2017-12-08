@@ -1,0 +1,11 @@
+CiteKey	Filename
+<$publications>
+<$localFiles.@firstObject?><$citeKey.csvString/>	<$localFiles.path.lastPathComponent.@firstObject/>
+</$localFiles.@firstObject?>
+<$localFiles.@secondObject?><$citeKey.csvString/>	<$localFiles.path.lastPathComponent.@secondObject/>
+</$localFiles.@secondObject?>
+<$localFiles.@thirdObject?><$citeKey.csvString/>	<$localFiles.path.lastPathComponent.@thirdObject/>
+</$localFiles.@thirdObject?>
+<$localFiles.@fourthObject?><$citeKey.csvString/>	<$localFiles.path.lastPathComponent.@fourthObject/>
+</$localFiles.@fourthObject?>
+</$publications>

@@ -1,0 +1,4 @@
+CiteKey,Type,Author,Title,Journal,Booktitle,Editor,Volume,Number,Pages,Month,Year,Publisher,Address,Keywords
+<$publications>
+<$citeKey.csvString/>,<$pubType.csvString/>,<$fields.Author.csvString/>,<$fields.Title.csvString/>,<$fields.Journal.csvString/>,<$fields.Booktitle.csvString/>,<$fields.Editor.csvString/>,<$fields.Volume.csvString/>,<$fields.Number.csvString/>,<$fields.Pages.csvString/>,<$fields.Month.csvString/>,<$fields.Year.csvString/>,<$fields.Publisher.csvString/>,<$fields.Address.csvString/>,<$fields.Keywords.csvString/>
+</$publications>
